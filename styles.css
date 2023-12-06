@@ -249,15 +249,17 @@ footer p {
     nav {
         display: flex;
         flex-direction:column;
-        align-items: flex-start;
-        padding-left: 30px;
+        padding-left: -10px;
         padding-right: 30px;
-        padding-top: 25px;
+        padding-top: 0px;
+        margin-bottom: 30px;
     }
+
 
     h1 span {
         color: #5D17EB;
         font-size: 50px;
+    
     }
     
     .meu-nome h3 {
